@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+*.swp
+
+vgg16/savedModels/
+savedModels.tar.xz
+
 # Distribution / packaging
 .Python
 build/
