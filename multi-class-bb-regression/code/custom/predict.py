@@ -194,6 +194,6 @@ for data, targetBB,targetClass,origSize in valid_loader:
     cv2.rectangle(imgNormSize,pt0,pt1,(0,255,0),3)
     imgNormSize = cv2.putText(imgNormSize, predName, (pt0[0],pt0[1]-10), cv2.FONT_HERSHEY_SIMPLEX, 
                    fontScale, (255,0,0), 2, cv2.LINE_AA)
-
+    cv2.imwrite('result.png',imgNormSize*255)
     cv2.imshow('res',imgNormSize)
     cv2.waitKey(0)
