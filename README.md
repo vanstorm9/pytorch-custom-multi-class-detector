@@ -15,18 +15,18 @@ Within the scripts you can change parameters such as modelPath (in most scripts 
 
 ![alt text](https://github.com/vanstorm9/pytorch-custom-multi-class-detector/blob/main/multi-class-bb-regression/code/custom/sample-results/4.png?raw=true)
 
-![alt text](https://github.com/vanstorm9/pytorch-custom-multi-class-detector/blob/main/multi-class-bb-regression/code/custom/sample-results/3.png?raw=true)
-
-![alt text](https://github.com/vanstorm9/pytorch-custom-multi-class-detector/blob/main/multi-class-bb-regression/code/custom/sample-results/8.png?raw=true)
-
-
-
-![alt text](https://github.com/vanstorm9/pytorch-custom-multi-class-detector/blob/main/multi-class-bb-regression/code/custom/sample-results/5.png?raw=true)
-
 ![alt text](https://github.com/vanstorm9/pytorch-custom-multi-class-detector/blob/main/multi-class-bb-regression/code/custom/sample-results/6.png?raw=true)
 
 
+
 ![alt text](https://github.com/vanstorm9/pytorch-custom-multi-class-detector/blob/main/multi-class-bb-regression/code/custom/sample-results/7.png?raw=true)
+
+
+
+
+
+
+
 
 
 
